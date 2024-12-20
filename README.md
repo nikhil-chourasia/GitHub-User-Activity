@@ -1,4 +1,4 @@
-# GitHub User Info Fetcher 🚀
+# GitHub User Activity Tracker 🚀
 
 This script fetches details and recent activity for a specified GitHub user using the GitHub API. It utilizes the `PyGithub` library to interact with the API.
 
