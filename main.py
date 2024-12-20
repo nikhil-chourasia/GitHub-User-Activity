@@ -35,4 +35,4 @@ except GithubException as e:
         print(f"Failed to fetch Activity as {e}")
 
 except Exception as e:
-    print(f"An unexpected error occured! {e}")
+    print(f"An unexpected error occured: {e}")
